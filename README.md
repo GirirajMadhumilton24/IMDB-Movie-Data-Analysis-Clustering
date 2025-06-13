@@ -1,4 +1,4 @@
-# IMDb-Data-Analysis-Clustering
+# IMDB-Movie-Data-Analysis-Clustering
 **Objective:** Analyze IMDb’s **Top 1000 Movies** and group them based on IMDb ratings and earnings using clustering algorithms.
 
 #### **Workflow**  
